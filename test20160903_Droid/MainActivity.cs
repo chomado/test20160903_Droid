@@ -5,7 +5,7 @@ using Android.Content;
 
 namespace test20160903_Droid
 {
-    [Activity(Label = "test20160903_Droid", MainLauncher = true, Icon = "@mipmap/icon")]
+    [Activity(Label = "Phoneword_0903", MainLauncher = true, Icon = "@mipmap/icon")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
